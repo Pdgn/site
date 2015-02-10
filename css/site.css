@@ -1,0 +1,24 @@
+.center {
+    text-align: center;
+}
+
+.title {
+    font-size: 2.5em;
+}
+
+.header {
+    margin: 1em 0;
+}
+
+.content {
+    text-align: justify;
+    margin-bottom: 1em
+}
+
+.content p, .content ol {
+    margin: 1.25em 0
+}
+
+.content img {
+    width: 100%
+}
