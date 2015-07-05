@@ -4,22 +4,23 @@ Hash: SHA1
 As of July 5th, 2015, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
+There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
 Today's News: http://america.aljazeera.com/articles/2015/7/5/greece-votes-in-economic-referendum.html
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQIcBAEBAgAGBQJVmcKRAAoJEAI3A12b8DriYykP+gNl79xEJ15ksoo0ZG2xUClW
-QWRZ0GVwBC+kJ48gYFMprqFBbbByEVbwaNU1PCJJNCsUyrhOeAIB+EvTjMqNiL0P
-n2x5FQpS7Wjdb1QWgGuJs/7aWBfGQhcDZ5+zSwsuIA9mMOpgNTjvYslEkTgfaF45
-9BXcZ6k4n9uIjFXVFkCLXROR85SG9tCG67DgoyOpbeQIkAjRldYB6OPgPexSOrKw
-wbqOblwfntWyXrucm573DwbVaCuo/JMY2JJvCExKJPzyrZH5hQN1lp6lP0rdt251
-luC1lvQi4U6nW0RIJnfZNX/kK0epli28mpkyDOGDF6TPmiO5qkAYlYPQ1r8tps1y
-x2p9F9IWxwxWclzzQOEvGnOUZ7E56c3vllTY0o4nEGdCY6fDjKYFwmSizbj1Zzpx
-RAncsn0XyJ5fq6oPxN+Ygf7fbUV0b1vcwt4mxrkmQlQJr4GljvpHfAnec1+B4cI5
-5hQeqJiWTezJ4czInOR00grWOFWHWc156e1tSBRjepXgHHcfHvqJAWYm0u0t1o8A
-twZ3rHSMUVlxQr2bOQWXnwfVhjS/jpjME4nBJi4ip2cAw9iiaB+eszQg3qvS1js9
-VSdNBwqNZ+h8dCUSCVsBVliDu+zH50/IgGdsS183XkYpt0QTPGR5vS6y5epZZ9xQ
-5X43GVz04LWGkCErcSvS
-=/pps
+iQIcBAEBAgAGBQJVmcM7AAoJEAI3A12b8Drioe8QAJ3ayaEG+mLMKonSMcKYcUR1
+15N9Kh0FWR8TRO4/oyrHnCCxMXd20W1LWJWjYdL1l37Lngjey/wTgQga0C6RlNpm
+i7kXLXpIyANqpdKivbiR7LlzLtu3Ze6bbQtLp7cuOpx3qYrMoqndhhEmpXRwE1Mm
+UUMwUr9xzlvtjrmhx7Xtk6d8ytf7/WSnX7fAqyc1YubRk7g3iNhNHj8NNsTRoXbP
+wWgg5yMy3jVmL5eiJt5xnL8hX0Z5e9tkUvAq6+Q6MXeL9TCimeLXipWRGRsTvLrS
+++ubME13xti+HQFN2pka0lAinDTRRaqhQADE097X7Dr7JZqqk6PJavrgu7o4emc1
+5GK3ffMpc8uIK5BY1+tsxAGA2O5BR1wni96uDpQoktXOXtHnsSEhBGNALQIgLnxd
+yBm0+Rj0JqX6cwvyHCaRBjKrX7lQzKBsLQZb+/Kk1xFSUNF2RN8q7Zrc9rfJ6a7U
+q1fDRT/j4j1B2NMNogZOKVON+HGtMyDOmlmLI2rkpRkgCtAOm7cipVLInFb5CMkz
+q9W+ItxZKmkhxzdUKizNoLSt4CSfHHx2k+zFPKVVNOx/aUD8+TccbaRSmT/4cPAZ
+aGA6ON3cNTlH0dsmeLZ+TuT19m9TimePCrIyCCxtStLYKeL9+2e7cppZVfLguxnM
+EYc+Iqja+99DrrjnO6nD
+=byIo
 -----END PGP SIGNATURE-----
