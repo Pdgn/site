@@ -1,26 +1,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-As of April 5th, 2015, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of July 5th, 2015, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 
-Today's News: http://america.aljazeera.com/articles/2015/4/5/lhc-CERN1.html
+Today's News: http://america.aljazeera.com/articles/2015/7/5/greece-votes-in-economic-referendum.html
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQIcBAEBAgAGBQJVIgkcAAoJEAI3A12b8Dri9XMP/1g+SnG0ZGjKTjKqIxazuTs9
-rHplMMgWdgfMfQC/gJBGIqk/6JAGQjTWw/BPKLq/XGpnk088LatF1tC3ois9SQ8l
-T9dQZyzJ7KuWf+Rb2qZcgAQF3QRRjAcOm+HuEcIBY1Wo8a5fWWNLcsNPlo7rHiJy
-xkD6iYdq0FJ/MdFk4ALKM1YMXZLp6zmewJCciojlh7JXFUVHJSIONsUq6gG5PEsF
-ju7xpYurNdcZ+cjVw97/FepQ3t+OJzv2TtXxI+WiwsuHJBReG/jKxpSoikN3Cuff
-auSUFrhVZm1vArqF/EBYymcfmVgV9eSzklVJaRiEuuIjRfta9UpSeIgrB60TGY/B
-dPuH7IY4IxeYjfwLDJnlJ3lmlH4weXZXQLHYUg2dHO2spm8gjWfzwHWlDSKdZAo1
-Xim3bQWzhG61wKg1mrFbOoa9wdrYDgWWjPJOHFTcMTyZJmV1NdWPyKSQpR3Y+6SL
-fLKr11/enZcLMVpe01GnkILzrdS43YpncRhfZwAHuoUHHhLJkMcfNUOKG3jcEmDx
-WHNHtknB5YyWvhhsz24hStTK4AIF2Amnfxwd5r8z+MFyFgIgMvg5zKYLFd+sgSf0
-wE60X2SUSfTR6/MZ5bWat3ig1Mlxb4pW39bp02HpnDL18Ks80lHwYhK/7/q0zfrZ
-7m9Z5wme5uoySx+8Tb9f
-=GAEy
+iQIcBAEBAgAGBQJVmcKRAAoJEAI3A12b8DriYykP+gNl79xEJ15ksoo0ZG2xUClW
+QWRZ0GVwBC+kJ48gYFMprqFBbbByEVbwaNU1PCJJNCsUyrhOeAIB+EvTjMqNiL0P
+n2x5FQpS7Wjdb1QWgGuJs/7aWBfGQhcDZ5+zSwsuIA9mMOpgNTjvYslEkTgfaF45
+9BXcZ6k4n9uIjFXVFkCLXROR85SG9tCG67DgoyOpbeQIkAjRldYB6OPgPexSOrKw
+wbqOblwfntWyXrucm573DwbVaCuo/JMY2JJvCExKJPzyrZH5hQN1lp6lP0rdt251
+luC1lvQi4U6nW0RIJnfZNX/kK0epli28mpkyDOGDF6TPmiO5qkAYlYPQ1r8tps1y
+x2p9F9IWxwxWclzzQOEvGnOUZ7E56c3vllTY0o4nEGdCY6fDjKYFwmSizbj1Zzpx
+RAncsn0XyJ5fq6oPxN+Ygf7fbUV0b1vcwt4mxrkmQlQJr4GljvpHfAnec1+B4cI5
+5hQeqJiWTezJ4czInOR00grWOFWHWc156e1tSBRjepXgHHcfHvqJAWYm0u0t1o8A
+twZ3rHSMUVlxQr2bOQWXnwfVhjS/jpjME4nBJi4ip2cAw9iiaB+eszQg3qvS1js9
+VSdNBwqNZ+h8dCUSCVsBVliDu+zH50/IgGdsS183XkYpt0QTPGR5vS6y5epZZ9xQ
+5X43GVz04LWGkCErcSvS
+=/pps
 -----END PGP SIGNATURE-----
-
