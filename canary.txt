@@ -1,26 +1,26 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-As of January 25th, 2016, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of April 4th, 2016, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
-Today's News: http://america.aljazeera.com/articles/2016/1/25/new-isil-video-purports-to-show-paris-attackers.html
+Today's News: http://www.aljazeera.com/news/2016/04/data-leak-reveals-world-wealthy-hide-money-160403192018665.html
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iQIcBAEBAgAGBQJWpbY1AAoJEAI3A12b8DrifZoP/RT3AP08CxBMkijke8/YgTpn
-Ep9u8BLaXrxUzaT9bl6jalEcqh3KNOYnfQXiHEXHQXYBagkXtbVBACfML9mSyoHm
-XZI+j1Zj5486RHMbnentaQECs64x6O2zq1rMaZGJibH2CL7QQ7/tTkk9aM2okwgQ
-Mlx+SOseV3Dxl1SfJd30CWqqdNEcnPYQ7EDJA2tb2CdFsCqCMXt4WvqqOKjKbz9X
-oN8gpubx1TlC5PDDbLBKxLZ7tgycawPTfoUXQlmZlllT+/PpdwBQioEOXWUctsMc
-Oh/73auJ9ljybOXwdAoeTqBITTKiPqgBBYKaspt5VUjMaUtD2hed6ZqmlB5vEDVE
-HtknY4gSPV3y9+ozSUjX6bDPGNPqqlsRPOZpCqYMJNLLkRli83ownAJn7oYOi7/Y
-spz7dmkkMRLnQS+1GADSxvxXVXC2WVD0f/S+8HGnN0JifRTOR1qTAKTBQcol1ZKl
-iEa6AjiO5TE8gsZ/8KPC4+Fzu2cD05ujVpaNo+xpHswjYhpJCiO69JXdQHB4Oj4t
-s5Yzd5yMKJHV3VXYav5qe42m/uCESLHBTT2l5wReTkxRvrVJ8VAj5d61pubcMsfy
-T4Y/h3wGqlwOtI6q//3qh2N8GWkZSpMSokk2+XAuSyaAS3sEJHyqUOWx0PWr+VVG
-1zasVNaicpEHjw7JkSPp
-=jBOy
+iQIcBAEBAgAGBQJXAs8RAAoJEAI3A12b8DriMvcQAMbNNU+e9+X2n61cYsHtU7G0
+BGGtEA5/YPrDRGJ+yN8yr6uhqtYQ8FLdgtiUd7yQTs6gp86lioiAp8gwRJbuEk8s
+wrwuvLrMWl1SP/3czn6nMLDca66VagEp4GDOGrbkGvWFtY8ceSaiP2MH2dNbfLdW
+ETk+iTTRdtZaEjAFHhHMqvQ06QK1LtmzcPMWHZkDDp2kW62u1QpUXPRHR6nxJTWp
+Y0MACfxGyLWUVwkoPloe48NlroyE934A+XkLetyyJkXfDIf5OTnU33r1FoWXc0O2
+BdrW0uh5KbnbZnvL0Nl8umg9Ykx+YNLH4TNH48LfA2ZcRrH7cFDZ/LEyQPMswHXN
+juJD7+5UDVmAL6yZsZ2RiL7BS7d1bmWDwPBWdh2YmCyCerzVU8wvqhkS8Ye+/EK9
+LN0IdSX5NxC4s8rBcAFVfOKxzuyNiXtopdilWqK8N1s4G0NUlNUzOnqXg9kE6WCG
+DY85NZH1Pe166HTvuDfHbQiDVjcHgeaQY19wKmcnCk96ADFEq+GQHFgRQY8yQ8C+
+IjSmuRaxRgR0JueGmX6YwSWa6GcCtsCbAMMN9fPt8MLWIONxtgOQ61nm3NMgI8c1
+uCB0FbDxI/XDBwjNCHQw51KWIpWs5NWgrKb/sZiSSTNhwl5VA5yIx9MdBIwsRsH+
+x+HKkK1RCVFeC4JJNogy
+=bjCj
 -----END PGP SIGNATURE-----
