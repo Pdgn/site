@@ -1,5 +1,5 @@
 body {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 p {
@@ -24,7 +24,8 @@ p {
     -ms-hyphens: auto;
     -moz-hyphens: auto;
     -webkit-hyphens: auto;
-    margin-bottom: 1em
+    margin-bottom: 1em;
+    letter-spacing: 0.01em
 }
 
 .content p, .content ol {
