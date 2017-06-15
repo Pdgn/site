@@ -1,26 +1,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-As of March 15th, 2017, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of June 15th, 2017, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
-Today's News: http://www.aljazeera.com/indepth/features/2017/03/years-syria-accountability-free-zone-170312082121458.html
+Today's News: http://www.aljazeera.com/news/2017/06/turkey-opposition-marches-mp-imprisonment-170615090051447.html
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v2
 
-iQIcBAEBCAAGBQJYyX+XAAoJEAI3A12b8DrizS4P/iGyOeg+qnwR6heZ6EGfKwiE
-lQ/eADn1wsA6yR0xiI3P5DeTmLcUMN+LwJVbzLrBqqO3TI1CFoeZryXK6NOFwcXa
-nV5xNaCZR17ygIuMB363OkyGI04iEcrGChMv/h3hbshKZrZQEiJNPKMQ1gZh0Cle
-7qqUmVobwuY5r0n+Jy+yitaBx7vVZKqRsbCaFOWISSbZBBwGeXIHZTqs5CSqzgdI
-WTbdrP72zuTbmcGjTsfj4LdG7iwlXO+6Cn6AP5fZxYcGNzwns6Kh70GAi+YXNb4t
-82pC+sX9OfgU3KsRen6Q9KzPsxvx5gcxrXtmAYElKjXCyPYDjKcMFnTZiASd9N5g
-WYwiQd50r8YySNusiv3ORGruWeaQi8HyJszS8TEIqGU2rbsL3dn7V8kwLC9G7iXJ
-kfvgoOzoZfIR7qVgRUUxxlmMDsUrh+AD7KtzJJP2ftUPscruvJyrxCIh8UAbjM27
-0lLbd+gDbEz6/rt+D/NMooBBX9WUZk5ZIF9F14yNbIeOy/skUOX/2BCjNIG3ctip
-9AFFUyxeOHOTfVWvvPsDpntr9DRUq6atB4nXsDzGXv4Sf+4Vux3U+rM2mQ7qFZVx
-GAOJ+hLhuG1MQ2dkVZ5ciFp3MAqbicTzPSVGzCjHRwIBydzsXutoomGJ1eBVXMAG
-V2Xz03fMsHhiMgWVPMKI
-=Qe0a
+iQIzBAEBCAAdFiEEVAU07gk9oXGi1ninAjcDXZvwOuIFAllCnhwACgkQAjcDXZvw
+OuJqhRAAyYs8dT/PUFt0kmOWLB1rFpWBhxoTVyGa10yBBAt1gvonmeBOljKKl43S
+uxcXsmE9zmmpF4HiJwJ+jt0JLjrPt+o4Gc5qyIYwEo8g4pG2srp8Gi/kR0ZFvxRA
+7u6AKGeXsYJ/RR4gPopzMDLLHERp2XR8GN+3GWQzcg+d1AGvMRFtLRya3+I0ur5p
+cliiLC84+KyQkxENm2ztEHF1+n4ZnY6LRnv5y4ah8BBbI0jx8P4bNOnU1FXBuzjh
+jTCU5yz6gp5k/dk3E/aAwEo6gGsS9w2/Mb6bPzkuRdsArc/04RC+3Rur9HHWLVvg
+6TVV8wnj+ROegWElR2AQwxkXSOTA3DUHC5hK2R8R6mpwiwRUvR99PFfkAlI9N5ne
+SK5OkxsJnY/YDdmYNttBW+mv7AFMUjECAFBZlo45AXagxxdCJKfOicqfLinKxQVG
+iLy8c/e3+ECfjcpElD17jrDLJAzGRu/q+/hgE5CrD1ViSpESr+Fno4s2gv3WwbBV
+WqqIeFs0WqwbFOcz3POQpuHYTFiBy0CGGlWHFLHoz2hYEzBO4GKc5OqyLhplA41B
+op8MsRs7O+UdijzAjU8wcxmYSk18m6vtFCrPSnDrN7agLSgyJqWBWHu7BWxzxma2
+Dt/EG5PWw2KUVlZbKChwOZmxnJHxGorW101gw31+dQjql/A6RUg=
+=c+kW
 -----END PGP SIGNATURE-----
