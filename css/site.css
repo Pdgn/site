@@ -11,6 +11,10 @@ header, article, footer {
     grid-column: col-start 2 / span 10;
 }
 
+header {
+    margin-top: 1.5em;
+}
+
 header .head {
     max-width: 860px;
     margin: auto;
