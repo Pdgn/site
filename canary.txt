@@ -1,25 +1,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-As of January 27th, 2017, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of February 21th, 2018, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
-Today's News: http://www.aljazeera.com/news/2018/01/huge-blast-rocks-afghanistan-kabul-180127084053950.html
+Today's News: https://jacobinmag.com/2018/02/britain-university-strike-pensions
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEb9h6dHa4zs6PULk1BH0y3yXcIu8FAlpsgm8ACgkQBH0y3yXc
-Iu/QqhAAmGuB/EupxfdysJbyNFt2YoVNE4IKVVp55XPFnBoPUzbosNIx2Fz4QqDj
-S38cFPj6JSKNd8qBJJa7bjM3w5RDdkUukEhDIsC9y2VcOUjNdMwOv5XJGl9VChK5
-lU6Uk2lyzpl9cwRu83tcJQy0h3sfM/L759kVRl7cYpvo+qX7529DnPb5DAjy3FcJ
-GZbPo/G5Rg9ZrGQveJ2daesD0zo7iUFRYsLSobMlhY92LtwkBe7oq7lI4nXuLw12
-NVQTM9CcApHb1sUc9qWFvLIp2KlK5d5A91RGGWEm7mhoa0qFKxLc76eo31Ibcd6K
-yvKvC4WilSUS2qvGrTEsku8IOzC5rPFmLlTv5mnGCuUi/5UuxqJ3egkcrJNRl7Et
-3XnWTLADCKFfibMnrjkTAl99rjRnc9rcgvBiXxT4VD5cK2szbFMeYMJ97UaS3GvZ
-UiWwxIE9UXkuYu/Am0ToQzQq2xsNy+RpWG4LklnXywGIyJERuD35GpNlky2Ial3m
-7CUP1LrArmhuEM311r4bwU7StbZtMlD+ARUvkafpKmabYYqFl5O3zREGKk1tmQOf
-XYbt/kERzUn8ikJYHWsgi+/VZArKSuHw6OquQaqTVY9ke4m/tAsQsvXRBiaeK+IA
-s9+ct6lFF3ZzBn8YUVGnPLbaGFrP7rcG4eaC+dub4WQuHzVewk4=
-=uySy
+iQIzBAEBCAAdFiEEb9h6dHa4zs6PULk1BH0y3yXcIu8FAlqN8EMACgkQBH0y3yXc
+Iu8RXg//ZuCfkLcBRPNZSqV/gQllHCHvb9vItWZoBZfTEpDZi5tDTDAW4eBxL28Z
+cfUq2yRwRdlRsHwwchwAOZEcxEEEKYuQXgVyr/zEi9af//GglEzzwrmjr0jZa/kU
+WQ6qSohHlRs02f4xJEQqVmXYG6Dap8FBRI8uNgU3LuLsDyKSJCch82XUwzyazPlB
+Vy78FvpbyfhihBDnG/jj7abzz5qNBKaW8gGv9kC0xrzWToP4Mk0yHD+8DeObchH6
+Kvq9JBJ3uMxvQfh7HYPd11a0V+I7wZhAYX5OyhOaVaqzog9FxFdFCd4HSGvig9Ho
+nSGKJIBdauIpoSsiOYh/bdCNCmekPldomDmbxE2JLe11I2yV9TjT2XKSop7/3VCg
+RE0xxrn3lMRAnYWuulg1Ob4/d994wCvnu001RF04axDHMh1wYAkbmQ5+qDij6HLP
+D+UWfwXyAMLPN6nYDqC+ZOtLPYDNFq7mU6a0ACononBIdVQkFnvmD/03bJiPKMJU
+HxQLF+nM82jmKEs0zn/lZAihtjyBl0UO63XXTGJqiVkWrpP6k1CdlnPkeACvDy1H
+yCWhdttfGoOKCO2G1OzDR7yroblmuZ8Eq1Vv6wO75TeQOou3BgerVzq3/JHR9vOa
+MpRfkI/LVe7ppauw+gGTvhDi1NnKO3fpWtz7IxoTNt5Fvt7B/wU=
+=FIlN
 -----END PGP SIGNATURE-----
