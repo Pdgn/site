@@ -54,6 +54,10 @@ article section.copy {
     font-size: 1.5em;
 }
 
+.copy li {
+    padding: 0.15em 0;
+}
+
 .copy a, .copy a:visited {
     color: #337ab7;
     text-decoration: none;
