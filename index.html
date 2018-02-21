@@ -4,127 +4,135 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>PdgnCo</title>
-    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <title>PdgnCo: The Pdgn Collective</title>
+    <link href="./css/normalize.css" rel="stylesheet">
     <link href="./css/site.css" rel="stylesheet">
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
   </head>
   <body>
-    <div class="container-fluid">
-      <div class="header row">
-        <div class="col-sm-offset-5 col-sm-2 center">
-            <div class="pidgey"><img src="./img/pidgey.svg" alt="Pidgey: the pdgn mascot" width="50%"></div>
-            <div class="title">PdgnCo</div>
-        </div>
+    <header>
+      <div class="head">
+        <span class="logo"><img src="./img/pidgey.svg" alt="Pidgey - the PdgnCo mascot"></span>
+        <span class="title">PdgnCo: The Pdgn Collective</span>
       </div>
-      <div class="row">
-        <div class="col-sm-offset-3 col-sm-6 content">
-          <h4>What is PdgnCo?</h4>
-          <p>PdgnCo (or pdgn for short) is a small IRC network founded on October 27th, 2014 by 
-             <a href="http://aaronweiss.us">Aaron Weiss</a> as a bastion of democratic autonomism on 
-             the Internet. We also operate a community blog that can be found 
-             <a href="http://blog.pdgn.co">here</a>. You'll find both insightful writings from 
-             community members, as well as network status updates there. Pdgn aims to consistently 
-             embody the spirit and values of its community. We have a 
-             <a href="https://en.wikipedia.org/wiki/Warrant_canary">warrant canary</a> posted
-             <a href="./canary.txt">here</a>. Our mascot's name is Pidgey. She was lovingly designed
-             by the talented <a href="http://apdenoatis.deviantart.com/">Shannon Sheu</a>, and
-             vectorized by Grant Wu.</p>
-          <h4>What are these values?</h4>
-          <ol>           
-            <li>Education &dash; This network is a place of learning, and aims to encourage it when possible.</li> 
-            <li>Democracy &dash; All major network decisions are decided publicly in <code>#pdgn</code>.</li>
-            <li>Autonomy &dash; Server operators will only intervene for the health of the network.</li>           
-            <li>Free Speech &dash; Censorship of any kind is not condoned on this network.</li>
-            <li>Privacy &dash; There is absolutely no server-side logging on the network.</li>
-          </ol>
-          <h4>How do I access Pdgn?</h4>
-          <p>You can access the network via your favorite IRC client. For graphical clients, we 
-             recommend the aptly-named <a href="http://pidgin.im">Pidgin</a> on Windows and Linux, and 
-             <a href="http://www.codeux.com/textual/">Textual</a> on OS X. In the way of terminal 
-             clients, many of our members swear by <a href="https://weechat.org">weechat</a>. Once 
-             you've found a client, you can connect to the  network via 
-             <a href="ircs://irc.pdgn.co:6697">irc.pdgn.co</a>. It's important to note that the 
-             network is only accessible over SSL, and uses the standard SSL port 6697. You may wish
-             to access a regional server instead. Below you'll find a table of in-network servers,
-             and their approximate locations.</p>
-          <table class="table table-striped">
-            <thead>
-              <tr>
-                <th>Server Name</th>
-                <th>Server Address</th>
-                <th>Server Location</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Columba</td>
-                <td>columba.pdgn.co</td>
-                <td>New York, NY</td>
-              </tr>
-              <tr>
-                <td>Raphus</td>
-                <td>raphus.pdgn.co</td>
-                <td>San Francisco, CA</td>
-              </tr>
-              <tr>
-                <td>Turtur</td>
-                <td>turtur.pdgn.co</td>
-                <td>Frankfurt, Germany</td>
-              </tr>
-            </tbody>
-          </table>
-          <p>Perhaps uniquely, Pdgn is also accessible in its entirety over 
-             <a href="http://hyperboria.net">Hyperboria</a>, a secure and decentralized network 
-             using <a href="http://cjdns.info">cjdns</a>. As a general rule of thumb, everything can 
-             be accessed through Hyperboria by prepending <code>h.</code> to its address. So,
-             general network access is available via 
-             <a href="ircs://h.irc.pdgn.co:6697">h.irc.pdgn.co</a>. Although cjdns has network-level
-             encryption in place, for logistical reasons, you must still connect with SSL. Below
-             you'll find a reproduction of the earlier table but with each server's Hyperboria address.</p>
-          <table class="table table-striped">
-            <thead>
-              <tr>
-                <th>Server Name</th>
-                <th>Hyperboria Address</th>
-                <th>Server Location</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Columba</td>
-                <td>h.columba.pdgn.co</td>
-                <td>New York, NY</td>
-              </tr>
-              <tr>
-                <td>Raphus</td>
-                <td>h.raphus.pdgn.co</td>
-                <td>San Francisco, CA</td>
-              </tr>
-              <tr>
-                <td>Turtur</td>
-                <td>h.turtur.pdgn.co</td>
-                <td>Frankfurt, Germany</td>
-              </tr>
-            </tbody>
-          </table>
-          <h4>How is Pdgn operated?</h4>
-          <p>Pdgn is currently operated solely by its founder, 
-             <a href="http://aaronweiss.us/">Aaron Weiss</a>. This means that there's absolutely no
-             administrative bureaucracy of any sort, and there's only one person that you have to
-             trust to keep the network values uncompromised. You can find him on the network as 
-             <code>awe</code>, where he's just about always hanging around in <code>#pdgn</code>.</p>
-          <p>Pdgn is currently funded out of pocket by its founder, but also accepts donations. 
-             Donations can be made via Bitcoin to the official PdgnCo wallet,
-             <code>1BZmyVhDu3p6xqsnat81fYD7hm3ZqR2bf</code>. All donations will go immediately 
-             towards paying for existing and additional network hardware. Maintenance of the 
-             network is a volunteer service, and as such, none of the donations will be taken for 
-             personal use.</p>
-        </div>
-      </div>
-    </div>
+    </header>
+    <article>
+      <section class="copy">
+        <h1>What is PdgnCo?</h1>
+        <p>
+          PdgnCo (or pdgn for short) is a small IRC network founded on October 27th, 2014 by
+          <a href="https://aaronweiss.us/">Aaron Weiss</a> as an autonomous internet community to
+          discuss tech, software, politics, media, and more. Its goal is to exist as a friendly,
+          inclusive space for community discussion on an internet increasingly dominated by just a
+          few multinational corporations. Pdgn reflects and embodies the spirit and values of its
+          community. For transparency, we have a
+          <a href="https://en.wikipedia.org/wiki/Warrant_canary">warrant canary</a> posted
+          <a href="./canary.txt">here</a>.
+        </p>
+        <h1>What are these values?</h1>
+        <ol>
+          <li>
+            Transparency &ndash; All major network decisions are decided publicly in
+            <code>#pdgn</code>.
+          </li>
+          <li>
+            Autonomy &ndash; Administrators will only intervene for the health of the network.
+          </li>
+          <li>Privacy &ndash; There is no server-side chat logging or inspection whatsoever.</li>
+          <li>Education &ndash; pdgn is a place of learning, and aims to encourage it always.</li>
+          <li>Community &ndash; pdgn aims to foster friendship and compelling conversation.</li>
+        </ol>
+        <h1>How do I access Pdgn?</h1>
+        <p>
+          You can access the network via your favorite IRC client. For graphical clients, we
+          recommend the aptly-named <a href="https://pidgin.im">Pidgin</a> on Windows and Linux, and
+          <a href="https://www.codeux.com/textual/">Textual</a> on macOS. In the way of terminal
+          clients, many of our members swear by <a href="https://weechat.org">weechat</a>. Once
+          you've found a client, you can connect to the  network via
+          <a href="ircs://irc.pdgn.co:6697">irc.pdgn.co</a>. It's important to note that the
+          network is only accessible over SSL, and uses the standard SSL port <code>6697</code>. For
+          better latency, you may wish to access a regional server instead. Below you'll find a
+          table of our servers, and their locations.
+        </p>
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th>Server Name</th>
+              <th>Server Address</th>
+              <th>Server Location</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Columba</td>
+              <td>columba.pdgn.co</td>
+              <td>New York, NY</td>
+            </tr>
+            <tr>
+              <td>Raphus</td>
+              <td>raphus.pdgn.co</td>
+              <td>San Francisco, CA</td>
+            </tr>
+            <tr>
+              <td>Turtur</td>
+              <td>turtur.pdgn.co</td>
+              <td>Frankfurt, Germany</td>
+            </tr>
+          </tbody>
+        </table>
+        <p>
+          Perhaps uniquely, Pdgn is also accessible in its entirety over
+          <a href="http://hyperboria.net">Hyperboria</a>, a secure and decentralized network
+          using <a href="http://cjdns.info">cjdns</a>. As a general rule of thumb, everything can
+          be accessed through Hyperboria by prepending <code>h.</code> to its address. So,
+          general network access is available via
+          <a href="ircs://h.irc.pdgn.co:6697">h.irc.pdgn.co</a>. Although cjdns has network-level
+          encryption in place, for logistical reasons, you must still connect with SSL. Below
+          you'll find a reproduction of the earlier table but with each server's Hyperboria address.
+        </p>
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th>Server Name</th>
+              <th>Hyperboria Address</th>
+              <th>Server Location</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Columba</td>
+              <td>h.columba.pdgn.co</td>
+              <td>New York, NY</td>
+            </tr>
+            <tr>
+              <td>Raphus</td>
+              <td>h.raphus.pdgn.co</td>
+              <td>San Francisco, CA</td>
+            </tr>
+            <tr>
+              <td>Turtur</td>
+              <td>h.turtur.pdgn.co</td>
+              <td>Frankfurt, Germany</td>
+            </tr>
+          </tbody>
+        </table>
+        <h1>How does Pdgn operate?</h1>
+        <p>
+          Pdgn is maintained solely by its founder, <a href="https://aaronweiss.us/">Aaron
+          Weiss</a>&mdash;known around these parts as <code>awe</code>. The day-to-day decisions
+          about maintenance are largely decided by him, but are all reported publicly in
+          <code>#pdgn</code>. Community opinions are incorporated into every major decision about
+          the network. The network is hosted on <a href="https://digitalocean.com">DigitalOcean</a>
+          and funded out-of-pocket by <code>awe</code>. Pdgn has an official mascot named Pidgey.
+          She was lovingly designed by <a href="http://apdenoatis.deviantart.com/">Shannon Sheu</a>,
+          and later carefully vectorized by Grant Wu.
+        </p>
+      </section>
+    </article>
+    <footer>
+      <div class="powered-by">Powered by FreeBSD</div>
+      <a href="https://www.freebsd.org/">
+        <img src="./img/freebsd.svg" alt="FreeBSD Logo">
+      </a>
+    </footer>
   </body>
 </html>
