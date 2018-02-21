@@ -19,15 +19,17 @@ header .head {
     max-width: 860px;
     margin: auto;
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template: "logo" "title";
 }
 
 header .logo, header .title {
     padding: 0.5em;
+    align-self: center;
 }
 
 header .logo {
-    text-align: right;
+    grid-area: logo;
+    text-align: center;
 }
 
 header .logo img {
@@ -36,7 +38,9 @@ header .logo img {
 }
 
 header .title {
-    align-self: center;
+    grid-area: title;
+    margin-top: -1em;
+    text-align: center;
     font-size: 1.6em;
 }
 
@@ -116,6 +120,17 @@ footer .powered-by {
 @media (min-width: 700px) {
     header .head {
         grid-template-columns: 1fr 2fr;
+    }
+
+    header .logo {
+        grid-area: inherit;
+        text-align: right;
+    }
+
+    header .title {
+        grid-area: inherit;
+        margin-top: 0;
+        text-align: inherit;
     }
 
     header, article, footer {
