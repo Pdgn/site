@@ -1,25 +1,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-As of March 16th, 2018, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of June 16th, 2018, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
-Today's News: https://jacobinmag.com/2018/03/libertarian-property-ownership-capitalism
+Today's News: https://www.lemonde.fr/economie-francaise/article/2018/06/16/trafic-sncf-dimanche-2-tgv-sur-3-un-ter-sur-deux_5316353_1656968.html
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEb9h6dHa4zs6PULk1BH0y3yXcIu8FAlqsN0wACgkQBH0y3yXc
-Iu+EqBAAng8VdYxanVAn19Oj5toZbmGOkueG+6wwB30spEhtOW2gmEoW2lGL+GXY
-NTfGZgVfhBdYujVEi84JBIC+fX2DHEBvSFEDt9TwXlZjh4qEzRAaEFA/RsMf3/dw
-DAQOMDNZUivlXDP7MnlPgRqqOt/cyQoaMhQ8vniLIC5KAMqbTWqEDbSEhbg4W+dv
-l9N3M1Vk2R+lLDFYata2Q4IuE2p73YDmpbLSIXUZpFVo9GlmeGymt6Au9JZFGGrP
-UV2nNdJhZTITZA8tn9OzKjHosrVlfmZKpOXeRyjWxjd4eh+26XPg/GMCkPXivYI7
-h6+NkRw0ImIY0yEIoP414JaFFyl+ZYLwLF55dkJ9y+zkp6SiRVKgSkS6ofWUqkhn
-6oPHbGKgcId9ozgVaCIJKJsAmIo/9OL8MYgi49rIiqVuPx+/nqixNHo7NT9Tfjch
-OgLHWZEo9Cye54lFUyWoP7ZLmpsJ7wykDdB8EdZgqT0IwlHtStakh59gzhY8Y8oj
-i3hB5jarKcQW7iElehNubGh9uYAlLWS/wWeU7tZtC7J5bsDQllkyGMC5lQYGGXRj
-e0F+6uJzTr2qR/1Bgxi3gwYAN/HxCOqG0znQyTYgMJTiMouzEHcVBYvChmu/yOek
-O9a6ysGWxhNVJtEqbVhcrxzT7MUphFGc3UJdABfjvPhjXEJL6PM=
-=D3Eo
+iQIzBAEBCAAdFiEEb9h6dHa4zs6PULk1BH0y3yXcIu8FAlslGg4ACgkQBH0y3yXc
+Iu9yJg//Q/t0LdjK3os9QTLKPW3JSj5fvGqZQval6afWRJWmEATHshhnHkU9vJQJ
+UuZMVzZFOgO36UPOLOf4vfUG95BFV5ARhzh8fj2iFN2e4EYeULvitlLPmxKjXR4i
+5EkC4f4pSb+rfIkzPOanoRh35FHYKaP0BOIS5BIgtjh9KrZD7vvcNt201X6Ge3vf
+flLNHrr1AfbcSvW+I9YvAecuNGABmIl6OnGTWPzY5rDxFlbY8+mGP71MGMEMh3LY
+ghcqz1/SICskbveO/dnE3+46KVJG0cuHlGENQwV2qpgUDoI8XEl5pY2jiKLHtnBQ
+g3XIAlAZ780Jv0sX3WjGnITBKYBFIpL+ILqtgx+xcWLvtKa2oNI6vMwQScblpSo6
+tCEq78+HOKm6oNeesV5hXtzefclu84P3qLUaeVMkxVLaXBeWdnQ5PGXwFYYBDYpL
+oq9OO+iNhLcbuYaMs0PFx65b/MqxOiqvwYKgON3vSsxIvrurQL88pswi4GAfAC36
+xUw/paR4k1HsBQIq3uJhh367Ut0cdMVNTNRXxp/SX5Y6XnjB9Pl0l0TtV5SIXelW
++suU7lJPBc6KG4B9r0dbSoNILOarO0sK1m18QI+739GeVcYePOmLallobmXuFh+Y
+V+75jBATivXnfaBIMiXlsKOBJ7gWPwP0e5Xp5C8CGzkCdCdV6wQ=
+=ffts
 -----END PGP SIGNATURE-----
