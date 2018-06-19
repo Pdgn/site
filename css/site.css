@@ -137,10 +137,6 @@ footer .powered-by {
         text-align: inherit;
     }
 
-    header, article, footer {
-        grid-column: col-start 3 / span 8;
-    }
-
     .table {
         font-size: 1em;
     }
@@ -153,5 +149,11 @@ footer .powered-by {
 @media (min-width: 900px) {
     article section.copy {
         padding: 1.5em 4em;
+    }
+}
+
+@media(min-width: 1140px) {
+    header, article, footer {
+        grid-column: col-start 3 / span 8;
     }
 }
