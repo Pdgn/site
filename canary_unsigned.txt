@@ -1,6 +1,6 @@
-As of June 16th, 2018, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of October 1st, 2018, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
-Today's News: https://www.lemonde.fr/economie-francaise/article/2018/06/16/trafic-sncf-dimanche-2-tgv-sur-3-un-ter-sur-deux_5316353_1656968.html
+Today's News: https://www.lemonde.fr/idees/article/2018/10/01/la-convention-judiciaire-d-interet-public-un-instrument-utile-pour-faire-reculer-la-corruption-et-l-evasion-fiscale_5362827_3232.html
