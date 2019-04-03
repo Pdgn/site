@@ -1,25 +1,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-As of January 3rd, 2019, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of April 2nd, 2019, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
-Today's News: https://www.lemonde.fr/societe/article/2019/01/03/un-projet-de-mosquee-liberale-a-paris_5404629_3224.html
+Today's News: https://www.lemonde.fr/m-le-mag/article/2019/04/02/au-rwanda-les-enfants-du-genocide_5444539_4500055.html
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEb9h6dHa4zs6PULk1BH0y3yXcIu8FAlwtsHUACgkQBH0y3yXc
-Iu9iSQ//Uj95Mee2CTm9c5CLgHXPrfOV416rwNIU00kulXZzevhDUjxFHmdxiAS2
-mxnQWApaEArW186Dw0fDPqIvDAq5OeSWjIiSuxDtQBASh1vK/WuaapzMdtruaJ4r
-k1h7Z2bFRDBrgs3SZ7yHGpRpkL8VzQoExND63gDdWHsHCgV1lrqZk566bdE7Nx5Z
-ob4RXZKDtDKXfJk4dsL/jzyW6ivgg0TN9dYNuzrWlxc8bWvT6Sb2SvqQAtW6Ooao
-ioJjTg7I/obWCZc0sgO59abGRvWSSGTYQxb3pL/Bp7DbTfBRrTGsPY9kHRSO1LN+
-eQMAmOf9eF5YfVlQbCkgrQbvfw2uDTWZ9hlJWOEP1VgBpJK9qjKMjXVEvvQvsUUS
-SBKxxbbSaWQcKRuxzdoU7z9gUvYhSIULxlrwrrN4e7PZO4CixOElgNbtTGDrfMz3
-5WKgHVTn2Vb9VuZgFYiS0bCOP23fq+9VR8y97RN5MqDTwVzBvuzQNQoVJR4wJO9P
-Op6Hc8P7uJv4fNLRkgId2P5cPGzHQrxk/VjEuSi7WAtsdaCCFD5Tbv5ACQO/r++g
-8NqFSGVH3YFO4/Bw8Mn8vI/8PCd3FgmB/RFCRaoHyJH0B7paii6eo7NTGqahwlph
-o1VmhVPq/oirJ4x4jgZXiorFRcxLLxdfINqxp5kJHUik4P2U6Q4=
-=P39q
+iQIzBAEBCAAdFiEEb9h6dHa4zs6PULk1BH0y3yXcIu8FAlykFA0ACgkQBH0y3yXc
+Iu8UbBAAmaEwR1QPk2wtDCcAunG7QWQfrBhAxfA3fiwiygPobJw/UkXxuAXDDb/o
+3r8xaW9VEWDnEBZbMRkzBAWrS70dhRdzETv39MW+VBIgpzBHaxf9s2CVrKY3HpjG
+7swNwkkzW0eB0RgldimcmDqHnWntIB+Zec+q2zftbQrsf3yTw+iZkRBpcKdhvTbc
+McULxQGGgZNgs7cbrOvilnNzmkJ9r0+OAa58qggQ7OnSHk8mWbZDIyYkiYnGT0fb
+t5csebpR8bSeWyqhDwr9slb4O7/5hHxvUqfjtOk+hRxN1mTL2TqXmWpyN8YXpY8I
+P4qYerKXSyRbtIdSGQMcr0lP3Gi3Pvi0waagtqNWGUQ1wNefnrp+CcY7omynA24Q
+4QPvopPKJfwunVUWzrfBge4tYBBWV/5uvrk92ZAnyBRF6U5aVgLmqvggOx2viU17
+ygSv35eGT5EHVK/Tmew9Indsg06QLazW5XPPu4DuuuKQMIGV7D/1cpxwPmMpqOND
+sbUlCQ0PuMEK6dPQZdzqjNwFneDXySJawJC7sU+/+HxqUrjoydFn5lhjwisdPyh6
+Qf00ihfeuIhYoN8qLNrTu1quhAXtiTU/6J8hEAzi9tOGN0xX/Sd7Fr8oxRpJZvtZ
+EpE0xR94hOWWPVfj/uDHImb21EWCTndKAw+y5GyNYS1Oel/zvyc=
+=8T9c
 -----END PGP SIGNATURE-----
