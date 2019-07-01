@@ -1,6 +1,6 @@
-As of April 2nd, 2019, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of July 1st, 2019, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
-Today's News: https://www.lemonde.fr/m-le-mag/article/2019/04/02/au-rwanda-les-enfants-du-genocide_5444539_4500055.html
+Today's News: https://www.lemonde.fr/international/article/2019/07/01/hongkong-manifestation-a-l-occasion-du-22e-anniversaire-de-la-retrocession-la-police-charge_5483565_3210.html
