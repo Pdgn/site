@@ -1,6 +1,6 @@
-As of July 1st, 2019, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of December 5th, 2019, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
-Today's News: https://www.lemonde.fr/international/article/2019/07/01/hongkong-manifestation-a-l-occasion-du-22e-anniversaire-de-la-retrocession-la-police-charge_5483565_3210.html
+Today's News: https://www.lemonde.fr/politique/article/2019/12/05/il-y-a-quelque-chose-dans-l-atmosphere-a-paris-rouen-ou-la-reunion-mobilisation-massive-pour-le-5-decembre_6021841_823448.html 
