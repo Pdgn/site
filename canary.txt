@@ -1,25 +1,25 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-As of December 5th, 2019, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
+As of January 1st, 2020, PdgnCo has not received any National Security Letters or FISA court orders, and we have not been subject to any gag order by a FISA court, or any other similar court of any government. PdgnCo has never placed any backdoors in our hardware or software and has not received any requests to do so. PdgnCo has never disclosed any user communications to any third party.
 
 PdgnCo intends to update this report approximately once per quarter.
 There's a complete history of the canary's contents here: https://github.com/Pdgn/site/commits/gh-pages/canary.txt
 
-Today's News: https://www.lemonde.fr/politique/article/2019/12/05/il-y-a-quelque-chose-dans-l-atmosphere-a-paris-rouen-ou-la-reunion-mobilisation-massive-pour-le-5-decembre_6021841_823448.html 
+Today's News: https://www.lemonde.fr/politique/article/2020/01/01/reforme-des-retraites-macron-reste-inflexible-aucune-issue-ne-se-profile_6024550_823448.html 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEb9h6dHa4zs6PULk1BH0y3yXcIu8FAl3p3FUACgkQBH0y3yXc
-Iu/HIg//dmWnUqCw2awWxxjPEHMJDP0IMmR1Enx+dzaKjKoXSPp039EYxDuQirD1
-QMbVbuU2dCDYyhA0YdxhGlU+2Wgd/IiMzhqQpS78CBxS0IC+Bf2Bd591UDLDz/xd
-42GA9ipwE8VWYEFuwb4wF6r4oAicGzGEnzQNfc6N396s+scqWyM/RaZ88AOrlYvH
-USz7HTcQDSgEXjv3v5CQIOBnBdDCxl32xGu9kGWVi4FXzcXysy80W5wr7CMGTQbA
-w/sVYC8BoWgqMysHu3Ofm8t6g7VXk1mshIP6Q1445L2WthVzDS9Y+xeMdZqMcDWK
-YzX+G6dtzVWp4mI5Ii6U03lWBFOphj6smrOeGbe5UMZDz88XhluonnHLoVHQLvea
-dL0k5h6BY6XPiLQdrBncAkpy8ivZUo9zWBt6s/g670dkfXNk4HDkl3ue8T+OQz8N
-OgirkWlRTOzxecr495csgmSQoTf9TxT7ZQC0erG9s3GLayCXvvfGQZPJUS1vlosd
-47p6vmlp32IhJlv6gBz+y5N7wTh7AmWwjFZ9JNEyd2Q0RYbv9vLREfoovjKO49+9
-hDQPDcu+pGPV8OgFciHGCuk0OUBDD0dA3TvfsuaUYpsq4aCL/Vvo3CDMmHqUrv92
-Z738PgXYTzVGbuqHV9solkDtMp5Z9zEMe3CXHfnRufQvuD4ivsc=
-=odVI
+iQIzBAEBCAAdFiEEb9h6dHa4zs6PULk1BH0y3yXcIu8FAl4NHOsACgkQBH0y3yXc
+Iu8uaw//YSLIwqg9IverccyvIt93BwVi7Qm9ENe6EE4fVSzsogYml0NLKh0KY/LC
+nfGR/QTS9xXjGEdNyIRpVc56XlitXsM5JgbtqZHoUclnm9O2C6hVeDWkmsUbruLc
+w7uKwCdX62L1/tIpcB3LeiVpGDMrKRnZjWCr1KCJ1uawMsSeeRDqwUmT9jVKn5Kr
+gZySyijXf0csl9+8LV1xLaL0xCLYTpHPkpK7hrexnaZm4X2X5snmEtlG9xSeXWGv
+DacE+pp96ZtIDUqN4PO4Du351lUcFG+GW5tBAqkVKWTzZudlRhI1/iFdM0iLS2AL
+KD/udwcTubViEiSisfB2G6BvbHbshkncVJ5wAjmuqI+EyVn4qFLiH5cgQsQrLuYp
+dtUNqjklJf1W3UtuMFe/nZAA71AHWdnhmFxOTrKVHE/bfr6V3WExsXtRP6NWiwW0
+eNCIPIkJYbQyHnSHBwrqf6nwxfytEQgDeXgrlgGj96UjsH3MHH2cUekMb3M53BUr
+ZsJtlTaqD8ivFdBKnQAoRJMFZa8F74i1W5WO+Oj5qJlmp8Z3POD0Ee+jN8WxY61P
+irbRkn7alfyDWdsPbN6IqkoCyhLCHuaiTNOG/ZbypsYWR19MH4gk4X7VdUCKbhAC
+3EZZaEiNTHMHnQBtOutvqtcR02O6815FGEOmwfXLXZhR9FQuOSM=
+=9HE3
 -----END PGP SIGNATURE-----
